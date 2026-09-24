@@ -1,6 +1,6 @@
-streamlit
+Flask
+gunicorn
 pandas
 numpy==2.2.4
 scikit-learn==1.6.1
 joblib==1.4.2
-matplotlib
